@@ -1,6 +1,5 @@
-# ZINEB EL MEJDOUBI
-*Numéro d'étudiant* : 24010156
-*Classe* : CAC2
+# Hayat EL BAKRAOUI
+*Numéro d'étudiant* : 24010285
 
 # Rapport Final d'Analyse Prédictive (Code, Explications et Interprétations)
 
